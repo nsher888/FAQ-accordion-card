@@ -42,6 +42,7 @@ body {
 }
 
 .wrapper {
+	/* padding-top: 40px; */
 	margin-top: 40px;
 	display: flex;
 	align-items: center;
@@ -70,6 +71,7 @@ body {
 		flex-direction: column;
 		width: 327px;
 		padding-bottom: 20px;
+		height: 547px;
 	}
 }
 

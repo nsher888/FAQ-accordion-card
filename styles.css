@@ -75,7 +75,7 @@ body {
 .img-box {
 	position: relative;
 	width: 50%;
-	background: url(./images/bg-pattern-desktop.svg);
+	background: url('./images/bg-pattern-desktop.svg');
 	background-position: 112% 69%;
 	background-position: -567px -297px;
 	background-repeat: no-repeat;

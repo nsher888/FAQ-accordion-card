@@ -4,8 +4,8 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
 
 ### Links
 
--   Solution URL: [https://github.com/nsher888/interactive-pricing-component-main.g]
--   Live Site URL: [https://nsher888.github.io/interactive-pricing-component-main.g/]
+-   Solution URL: [https://github.com/nsher888/FAQ-accordion-card]
+-   Live Site URL: [https://nsher888.github.io/FAQ-accordion-card/]
 
 ## Author
 
